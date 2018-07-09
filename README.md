@@ -1,6 +1,6 @@
 # Project Title
 
-Collection of some useful python scripts from Automate the Boring Stuff With Python and rest are my own.
+Collection of some useful python scripts and rest are my own.
 
 ## Getting Started
 
