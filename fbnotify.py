@@ -48,7 +48,7 @@ try:
     numNotif = min(15,len(notif))
     for i in range(numNotif):
         print('Notif ' + str(i+1) +': '+  notif[i].text.strip() + '\n')
-    browser.quit()
+
     display.stop()
 
     
